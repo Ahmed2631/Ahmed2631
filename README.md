@@ -24,7 +24,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp;
 ![Asp.NET](https://img.shields.io/badge/-Asp.NET-05122A?style=flat&logo=Asp.Net)&nbsp;
-![Asp.NET%20Core](https://img.shields.io/badge/-Asp.NETCore-05122A?style=flat&logo=Asp.Net%20Core)&nbsp;
+![Asp.NETCore](https://img.shields.io/badge/-Asp.NET%20Core-05122A?style=flat&logo=Asp.NetCore)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
